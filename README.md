@@ -10,19 +10,33 @@ Python - https://www.python.org/
 # Install dependencies
 
 pip install asyncio
+
 pip install websockets
+
 pip install json
+
 pip install time
+
 pip install zlib
+
 pip install urllib
+
 pip install hmac
+
 pip install sys
+
 pip install typing
+
 pip install requests
+
 pip install ciso8601
+
 pip install datetime
+
 pip install collections
+
 pip install itertools
+
 pip install gevent
 
 # Starting the script
